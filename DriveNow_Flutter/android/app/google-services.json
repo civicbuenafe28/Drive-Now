@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "789028112701",
+    "project_id": "drivenow-b63f5",
+    "storage_bucket": "drivenow-b63f5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789028112701:android:dfa7af61452e6af4939d54",
+        "android_client_info": {
+          "package_name": "ph.edu.mseuf.drivenow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWH0cehI0Es8op_Ok0pkwiEUVXO1blqYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
