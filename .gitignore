@@ -13,3 +13,8 @@ DriveNow_Flutter/.dart_tool/
 DriveNow_Flutter/build/
 DriveNow_Flutter/android/.gradle/
 DriveNow_Flutter/android/local.properties
+
+DriveNow_Flutter/.idea/
+DriveNow_Flutter/.DS_Store
+DriveNow_Flutter/DriveNow/
+DriveNow_Flutter/DriveNow.xcodeproj/
