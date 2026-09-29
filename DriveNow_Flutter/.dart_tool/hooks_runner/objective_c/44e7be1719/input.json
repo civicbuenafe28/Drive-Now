@@ -1,0 +1,29 @@
+{
+  "assets": {},
+  "config": {
+    "build_asset_types": [
+      "code_assets/code"
+    ],
+    "extensions": {
+      "code_assets": {
+        "android": {
+          "target_ndk_api": 24
+        },
+        "c_compiler": {
+          "ar": "D:\\AndroidStudioIDE\\Android SDK\\ndk\\28.2.13676358\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\llvm-ar.exe",
+          "cc": "D:\\AndroidStudioIDE\\Android SDK\\ndk\\28.2.13676358\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+          "ld": "D:\\AndroidStudioIDE\\Android SDK\\ndk\\28.2.13676358\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\ld.lld.exe"
+        },
+        "link_mode_preference": "dynamic",
+        "target_architecture": "arm64",
+        "target_os": "android"
+      }
+    },
+    "linking_enabled": false
+  },
+  "out_dir_shared": "D:\\Documents\\DriveNow\\DriveNow\\DriveNow_Flutter\\.dart_tool\\hooks_runner\\shared\\objective_c\\build\\",
+  "out_file": "D:\\Documents\\DriveNow\\DriveNow\\DriveNow_Flutter\\.dart_tool\\hooks_runner\\objective_c\\44e7be1719\\output.json",
+  "package_name": "objective_c",
+  "package_root": "D:\\Android\\.pub-cache\\hosted\\pub.dev\\objective_c-9.5.0\\",
+  "user_defines": {}
+}
